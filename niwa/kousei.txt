@@ -131,3 +131,10 @@ ni'o cire mo'o.
 正： Lojban: la ponjbogri (日本ロジバンコミュニティ)
 
 
+---校正の追加---
+作品番号4.
+タイポ：
+（ロジバン訳の4行目）
+誤： maltu
+正： mlatu
+
