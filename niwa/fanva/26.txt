@@ -1,15 +1,15 @@
 26
 [萩原]
 路上に所持金を入金する
-2012, プロジェクトのドキュメントビデオ(7min20sec)
-無秩序に配置されている自動販売機に、無根拠に手持ちの小銭を投入しては立ち
-去っていく。その後、何者かによって発見されるまでの間、自動販売機にその金額が
-表示され続ける。お金がその後誰に所有されることになるのか、それとも落とし物
-として届けられるのかは、誰にも分からない。高度にシステム化された購買行為シ
-ステムからの一時的な退却によって所有者不明のお金を作りだす。
+2012, プロジェクトのドキュメントヴィデオ (7分20秒) 無秩序に配置されてい
+る自動販売機に無根拠に手持ちの小銭を投入しては立ち去っていく。その後何
+者かによって発見されるまでの間、自動販売機にその金額が表示され続ける。
+お金がその後誰かに所有されることになるのか、それとも落とし物として届け
+られるのかは誰にも分からない。高度にシステム化された購買行為システムか
+らの一時的な退却によって所有者不明のお金を作りだす。
 ni'o rexa mo'o
 lu setca lo ponse jdini lo dargu li'u
-de'i renopare fi'o vreji lo gungunma skina to mentu li ze pi reno toi
+de'i li renopare fi'o vreji lo gungunma skina to mentu li ze pi reno toi
 .i setca lo ponse jdini lo venzmi poi fe'e di'inai zvati gi'e cliva
 .ibabo pu'o lo nu da facki ku le venzmi cu ca'o jarco lo jdima
 .i no djuno lo nu le jdini ba ge'ikau se ponse zo'e gi se xruti zo'e
@@ -19,4 +19,10 @@ ciste noi mutce lo ka ciste
 
 
 
+
+---co'a pinka---
+
+[guskant.2013-09-24: 校正]
+
+---mo'u pinka---
 

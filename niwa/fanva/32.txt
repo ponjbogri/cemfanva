@@ -1,12 +1,12 @@
 32
 [Limna]
 自宅の鍵を複製して路上で配布する
-2012, パフォーマンスのヴィデオドキュメント(15min21sec)
-自宅の鍵をカギ屋に頼み複製してもらい、それを秋葉原の路上で見ず知らずの他
-人に配布する。住所は明かされていないので、それがどこのどういった鍵なのかは
-不明であるまま、ぼく家の鍵が流通することになる。「ぼくの家の鍵は常に誰か第
-三者が持っている」という状況を作り出すことで、他者との連帯や共有の現実的
-な不可能性を明示する。
+2012, パフォーマンスのヴィデオドキュメント (15分21秒) 自宅の鍵をカギ屋に
+頼み複製してもらい、それを秋葉原の路上で見ず知らずの他人に配布する。住
+所は明かされていないので、それがどこのどういった鍵なのかは不明であるま
+まぼく家の鍵が流通することになる。「ぼくの家の鍵は常に誰か第三者が持っ
+ている」という状況を作り出すことで、他者との連帯や共有の現実的な不可能
+性を明示する。
 
 ni'o cire mo'o lu .i lo ckiku pe lo mi zdani cu gau se fukpi gi'e
 fatri fi'o se cpana lo klaji li'u
@@ -249,6 +249,8 @@ jikca jorne (社交的につながる)はどうか。
 cu ru'i se ponse le na srana prenu poi mi na djuno cu klina jarco lo
 fatci ka to'e cumki ku ne lo nu jikca jorne gi'e ponse co kansa vau
 lo drata
+
+[guskant.2013-09-24: 校正]
 ---mo'u pinka---
 
 

@@ -1,19 +1,17 @@
 1
 213文字/94words [Limna]
 水たまりAを水たまりBに移しかえる
-2004 パフォーマンス ヴィデオ10'53min(2004) 18'42min(2007)
-かつてベルリンの壁があった場所で、水たまりを別の水たまりへと口移しで移し
-かえるパフォーマンス。日本人であるぼくが冷戦やベルリンの壁といった東西の
-問題にいかに関わることができるかと問うたとき、ぼくにできるのは、旧東ベルリ
-ンの水たまりを旧西ベルリンの水たまりへ移しかえることぐらいではないかと
-思った。事実、壁を隔てて往来不能だった歴史的事実は消えることなく、記憶されて
-いくものである。その後、世界各地で同じパフォーマンスを行った。
+2004, パフォーマンスのヴィデオドキュメント (10分53秒) かつてベルリンの壁があっ
+た場所で、水たまりを別の水たまりへと口移しで移しかえるパフォーマンス。日本人
+であるぼくが冷戦やベルリンの壁といった東西の問題にいかに関わることができる
+かと問うたとき、ぼくにできるのは旧東ベルリンの水たまりを旧西ベルリンの水たま
+りへ移しかえることぐらいではないかと思った。事実、壁を隔てて往来不能だった歴
+史的事実は消えることなく、記憶されていくものである。その後、世界各地で同じパ
+フォーマンスを行った。
 
 ni'o pa mo'o lu lo djacu senta xi abu cu gau muvdu lo djacu senta xi
 by li'u
-de'i li renonovo fi'o vreji lo tigni skina no lo mentu be li pano pi
-muci ju'u xano be'o pe lo nanca be li renonovo be'o ku ku zi'e pe lo
-mentu be li pabi pi vore ju'u xano be'o pe lo nanca be li renonoze
+de'i li renonovo fi'o vreji lo tigni skina ne lo mentu be li pano pi muci ju'u xano
 
 .i tu'i lo stuzi be le nu la belin pu ze'u pu zasti be'o lo nu tigni
 lo nu lo djacu senta cu gau muvdu lo drata djacu senta ku pi'o lo
@@ -31,6 +29,8 @@ pu mintu tigni tu'i lo ro foldi pe munje
 ちょっとわかりにくい、訳の部位 
 「かつて・・・あった」pu ze'u pu
 「されていくものである」i'u ba'a
+
+[guskant.2013-09-24: 校正]
 
 
 ---mo'u pinka---

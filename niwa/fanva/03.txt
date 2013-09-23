@@ -1,18 +1,16 @@
 3
 163文字/71words [Limna]
 自宅のゴミをサンフランシスコのゴミ捨て場に捨てにいく
-2006 パフォーマンス ヴィデオ17'33min
-日本のゴミをアメリカへ。ぼくの東京の自宅のゴミを飛行機に乗ってそのまま、サ
-ンフランシスコのゴミ処理場まで持ち込んで処理してもらう。地域的な問題を携
-えたまま国境を飛び越えることの違和感を用いながら、政治や社会のシステムで
-類似点の多い日本とアメリカの関係を問う。ぼくたちが日々作り出しているゴミ
-はどこから来てどこへ行くのだろうか。
+2006, パフォーマンスのヴィデオドキュメント (17分33秒) 日本のゴミをアメリカへ。ぼ
+くの東京の自宅のゴミを飛行機に乗ってそのままサンフランシスコのゴミ処理場まで
+持ち込んで処理してもらう。地域的な問題を携えたまま国境を飛び越えることの違
+和感を用いながら、政治や社会のシステムで類似点の多い日本とアメリカの関係を
+問う。ぼくたちが日々作り出しているゴミはどこから来てどこへ行くのだろうか。
 
 ni'o ci mo'o lu .i klama lo festi rinci stuzi pe la sanfransiskon
 mu'i lo nu se rinci lo mi zdani festi li'u
 
-de'i li renonoxa fi'o vreji lo tigni skina no lo mentu be li paze
-pi cici ju'u xano
+de'i li renonoxa fi'o vreji lo tigni skina ne lo mentu be li paze pi cici ju'u xano
 
 .i benji lo festi pe lo gugdejupu seka'a gugde'usu .i xeka'a lo vinji
 ku fi'o sirji ku lo mi zdani festi cu xance se benji gi'e gau zo'e rinci
@@ -45,6 +43,8 @@ lo nu tigni が lo nu jarco zukte とほぼ同じというのが僕の考え(場
 
 	i'a 
 	plino zo tigni
+
+[guskant.2013-09-24: 校正]
 
 ---co'u pinka---
 
