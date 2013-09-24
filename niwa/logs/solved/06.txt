@@ -1,0 +1,113 @@
+翻訳担当者： [重城]
+
+---co'a pinka---
+--- チェック済み
+
+[guskant.2013-07-13: タイトル {lu .i .ai...} この .i は何のために？]
+	lu .ai ... とすると、lu を .ai が修飾してしまいそうな気がして。
+
+[guskant.2013-07-13: {zukte} （2箇所）> 「パフォーマンス」を tigni にするかどうか]
+	tigni に変更
+
+[guskant.2013-07-13: {bu'u lo jungo...} 題と区切るために文頭の i が必要]
+	.ie
+
+[guskant.2013-07-13: {fo da vecnu gi'e te vecnu}={fe zo'e fo su'o da vecnu gi'e
+	te vecnu} なので、息によって異なる値段で売買する可能性を含意する。
+	{pa da} か {zu'i} の方が良い。]
+	確かに。とりあえず pa da を採用。
+
+[guskant.2013-07-13: {lo viska cu gau frati} > gauがあればcuは不要]
+	これは現在の parser の問題点が関係している。
+	今の camxes だと、lo viska gau frati は lo viska gau ku frati と
+	解釈されてしまう。
+	もちろんこの場合意味は同じなのだが、時制などでは
+	mi ca ku klama (私は何らかの事と同時に行く)と
+	mi cu ca klama (私は今行く)とでは意味が変わる。
+	BAI では問題は無いのだが、gau が selbri につくということを強調したい。
+	parser の問題が解決したら、lo viska gau frati にしたいと思う。
+
+[guskant.2013-07-13: {vesxu} > {vasxu}]
+	.ie
+
+[guskant.2013-07-13: {ca lo nu vecnu lo melbi ninmu se vasxu kei lo nu vecnu
+	jivna pu rarna fasnu} 
+	- {pu} が nu 内に入っていてメインの selbri が無くなってしまう。 
+	{cu pu} とする必要がある。]
+
+[guskant.2013-07-13: {ba lo fanmo lo tadni poi djica lo nu vecnu lo mi se vesxu
+	pu so'i mei klama} 
+	- {pu} が nu 内に入っていてメインの selbri が無くなってしまう。
+	{cu pu} とする必要がある。
+	- 「殺到」と言っても、実際に往来していないので {klama} は不要か。
+	近づいてくる様子を出すなら {mo'i zo'i so'i mei}]
+	.ie sai
+
+[guskant.2013-07-13: {mi jbini loi canja gi'e gasnu lo nu canja} > 「やりとりの媒
+	体としての役割を演じ」なら {mi tigni lo jai va'o canja} あるいは {mi tigni
+	lo jai xebe'i canja}]
+	この場合の「演じ」には「見せるために」という含意は無いと判断し、
+	tigni は使わなかった。
+	上の訳は「取り引きの間にあって、取り引きを行わせる」といった意味を意図。
+	jai va'o canja とか jai xebe'i canja ってのはいいと思う。
+	「やりとりの媒体としての役割を演じ」は「やりとりの媒体となって」とほぼ同議
+	と考え、mi jai va'o canja としようかとも思ったが ...
+	tigni の代わりに tarti を使って、ほぼ提案通りの訳にしてみる。
+	また、po'o の位置を lo の後にした。
+
+[guskant.2013-07-13: {se tai lo ka to'e cando cu} 「うごめく性質に似て」 > mi が
+	「積極的」なので {.ai} でも良さそう。あるいは {temu'i mi} 「私が動機をもっ
+	て」]
+	.ai は何となく違う気がする (<- 今の時点では。後でまた考える)。
+	temu'i mi は良さそう。
+	もっとしっくり来る訳を考え続けたい。
+	とりあえず今は、temu'i mi で行こうと思う。
+
+[cm][重城]:
+一元: pa lo jungo rupnu
+「(お金の)一中国単位」といった感じ
+[cn][重城]:
+中国の成都市: lo jungo .tcend. tcadu
+[co][重城]:
+se va'u mi (利益者を私として)
+と訳した。
+しかし、これだと「してくれる」との訳し分けができない。
+使役の意味をいれたほうが良いか。
+
+=> .i'o を使ってみた。
+ただ、.i'o のニュアンスがまだつかみきれてはいない。
+.i'o nai がねたみの意味であることから、ねたみの逆の意味ということになる
+のだろうか。
+
+=> .i'o の意味がつかみかねるので、よりわかりやすい se va'u mi にもどす。
+
+[guskant.2013-06-16:
+gau nenri muvdu se va'u mi > muvduは不要? gau nenri [.i'o]
+気体の移動を強調したい場合は
+lo viska mo'i ne'i lo slasi dakli gau vasxu [.i'o]
+]
+________________
+[重城]:
+ki'e
+確かに、そうですね。
+直しておきます。
+
+[cp][重城]:
+積極的に: se tai lo ka to'e cando
+(動く物の持つ性質のような形で)
+
+これはもっといい言い方がないかな?
+[cq][重城]:
+観客を誘導する: lo viska cu gau frati (見る人に反応させる)
+
+「誘導」の持つ方向性のようなものを表現しきれてない気もする。
+gau frati lo se djica なら「望むようなやりかたで反応させる」みたいにな
+るか。
+[cr][重城]:
+自然発生的に: se tai lo rarna
+(自然という形で)
+[cs][重城]:
+同額で売買する: mi fo da vecnu gi'e te vecnu
+私が da という値段で売りかつ買う
+
+[guskant.2013-09-24: 校正]

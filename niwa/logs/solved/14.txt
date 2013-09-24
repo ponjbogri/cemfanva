@@ -1,0 +1,20 @@
+翻訳担当者： [萩原]
+
+---co'a pinka---
+[bk][萩原]:
+胴上げ bevri renro salci
+[bl][萩原]:
+「革命」をjikca binxo と訳したが、何か違う気がする。jikca は「社交的」であ
+って「社会」とは少し違う?
+
+[guskant.2013-06-16:
+革命 ciste nu binxo > ci'ernunbi'o
+$x_1$ nu $x_2$ noi ke'a ciste ku'o binxo $x_3$ noi ke'a ciste ku'o
+$x_4$
+$x_1=n_1$ はシステム $x_2=b_1=c_1$ がシステム $x_3=b_2=c_1$ になる、条件
+$x_3=b_3$の下における革命
+$x_1=n_1$ is a revolution that a system $x_2=b_1=c_1$ becomes
+$x_3=b_2=c_1$ under conditions $x_3=b_3$.
+]
+
+[guskant.2013-09-24: 校正]
