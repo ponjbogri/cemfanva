@@ -1,30 +1,41 @@
 翻訳担当者： [重城]
 
 ---co'a pinka---
+
 [guskant.2013-06-28:
-	"[重城]:
-	gubzda: gubni zdani (公共の家) = 官邸"
+	> [重城]:
+	gubzda: gubni zdani (公共の家) = 官邸
+
 (te) trube'e zdani ?
-	"[nalteo]:
-	首相 tertrube'e < te ke turni bende "
+
+	> [nalteo]:
+	首相 tertrube'e < te ke turni bende 
 ]
+
 [guskant.2013-06-28:
-	"[重城]:
-	fi'o gradu lo tuple: 足を単位として --> 一歩一歩"
+	> [重城]:
+	fi'o gradu lo tuple: 足を単位として --> 一歩一歩
+
 脚の長さではない
+
 fi'o gradu lo zu'o stapa ?
 ]
 
 [f][重城]:
 jajgau: jamji gasnu
+
 gau jmaji としようかと思ったが、sraku jajgau (掻き集める) や brulu'i
 jajgau (掃き集める) 等が簡単に作れるので jajgau とした。
+
 [g][重城]:
 数字は空白をいれないことにした
+
 pareci や renopaci といった感じ
+
 [h][重城]:
 ratnenfanri: ratni nejni fanri 原発
-________________
+
+
 [重城]:
 ratni nejni ke dikca fanri
 がよりわかりやすい。
@@ -36,52 +47,69 @@ ratnenfanri か ratydicfanri のどちらかになるだろう。
 ただし原子力発電所とくどく言うときの訳としては、ratni nejni ke dikca
 fanri は適しているように思う。
 あるいは、ratni ke dikca fanri か。
+
 [i][重城]:
 cnitcebi'o frili gi'e cnimlibi'o frili: 熱しやすく冷めやすい
+
 cnitcebi'o = cinmo mutce binxo
+
 cnimlibi'o = cinmo milxe binxo
 
 [guskant.2013-07-12:
- タイトル: cu gau sraku jajgau
+ > [重城]: タイトル: cu gau sraku jajgau
+
  gau不要 > cu sraku jajgau
 ]
+
 	[重城]:.ie la .iocikun. ba'o jai galfi
 
 [guskant.2013-07-12:
- lo zukte skina pe lo mentu be li bi pi'e cixa
+ > [重城]: lo zukte skina pe lo mentu be li bi pi'e cixa
+
  > lo tigni skina noi mentu li bi pi'e cixa に変更する方針?
 ]
+
 	[重城]:go'i .i ba'o galfi to .iocikun. toi
 
 [guskant.2013-07-12:
- ba lo donri
+> [重城]: ba lo donri
+
  > donriは昼間全体なので、正午過ぎの意味なら ba lo dormidju
 ]
+
 	[重城]:ba'o galfi to .iocikun. toi
 
 [guskant.2013-07-12:
- kerfa
+> [重城]: kerfa
+
  > 髪?
 ]
+
 	[重城]:kerfa pulce -> cilta pulce
+
 	ほこりを訳出するのに kerfa pulce とし、「髪の毛のようなゴミ」としたが、「
 	糸のようなゴミ」のほうがいいと思い直しましたので、cilta pulce にしてみま
 	す。(.ioikun.)
 
 [guskant.2013-07-12:
- lo ka mutce lo nuncpe co cmibi'o lo'i pante be tu'a lo ratnenfanri
+> [重城]: lo ka mutce lo nuncpe co cmibi'o lo'i pante be tu'a lo ratnenfanri
+
  > lo'i pante が mutce x3 になっている。 cmibi'o x2 なら be で繋ぐ。
 ]
+
 	[重城]:.ie ba'o galfi (.iocikun.)
 
 [guskant.2013-07-12:
- ro lo ponse be lo mintu sidbo
+> [重城]: ro lo ponse be lo mintu sidbo
+
  > ro lo te sidbo be fi lo mintu なら同じ文字数でより精確
 ]
+
 	[重城]:xamgu je melbi zmadu .i ba'o galfi (.iocikun.)
 
 [guskant.2013-07-12:
- cu ba'o se cliva
+> [重城]: cu ba'o se cliva
+
  > cu は無くても可
 ]
 	[重城]:.ie ba'o galfi (.iocikun.)

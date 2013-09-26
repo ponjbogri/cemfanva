@@ -1,34 +1,36 @@
 翻訳担当者： [guskant]
 
 ---co'a pinka---
+
 [guskant]:  10:35 AM Jun 3
 Selected text:
 ca'o ji'o gubni stuzi
+
 管理されつつある公共空間
-Reply
+
 
 [guskant.2013-06-28:
 > .i lo nu go'i cu jai ta'i preti lo nu lo za'i ca'o ji'o gubni stuzi cu mokau .e'i
+
 .i lo nu go'i cu jai ta'i preti lo bilga za'i ca'o ji'o gubni stuzi
 ]
 
-[guskant]: Marked as resolved
-5:04 AM Jul 12
+
 
 [guskant]:  10:33 AM Jun 3
 Selected text:
 cribe tarmi pilka
-熊の着ぐるみ cribe tarmi pilka 「クマ型の皮」
-Reply
 
-[guskant]: Marked as resolved
-4:43 AM Jul 12
+熊の着ぐるみ cribe tarmi pilka 「クマ型の皮」
+
+
+
 
 [guskant]:  6:58 AM Jun 3
 Selected text:
 .u,enon.
+
 ji .u'en.
-Reply
 
 [重城]: .u'enon. のほうが良いと思う。u'en だと日本人(である僕)が見ても(聞いても)わからない。
 6:16 AM Jul 11
@@ -36,8 +38,7 @@ Reply
 [guskant]: ie ba'o stika
 7:24 PM Jul 11
 
-[guskant]: Marked as resolved
-7:24 PM Jul 11
+
 
 [重城]: *1: ge'u: 今回の訳には関係ないコメントかもしれない。参考までに。
 これを法制句の終端詞として使うという提案が出ているのでしょうか?僕の辞
@@ -49,9 +50,13 @@ lojban定義では
 fa'orma'o zo goi
 となっているだけです。BPFK Sectionsでもそんな記述はないので、jbovlaste の
 英語・日本語が間違っているのかもしれません。]
+
 [guskant.2013-09-24: jbovlaste の {ge'u} の英語定義・日本語定義・ロシア語定義を、形式文法やlojban定義・スペイン語定義に合わせて修正した。BPFKのge'uの現状を確認したところ
+
 	http://www.lojban.org/tiki/BPFK+Section%3A+Subordinators
+
 	End relative phrase. ge'u is an elidable terminator that indicates the end of relative or sumtcita phrases. It is usually elidable in simple situations. It (or possibly another teminator, such as ku) is required, however, when one wishes to apply a logical connective to a sumti that has a relative or modal phrase attached (otherwise you are simply added an additional part to the phrase).
+
 となっていて、これも意味不明だった。{pe bai ko'a ge'u} のような形を想定して「 or sumtcita」「 or modal」と言っているのだろうか？]
 
 [重城]: *2: mi poi dasni ... : 確信犯的に使っているのでなければ
@@ -135,6 +140,7 @@ bilga co za'i ca'o ji'o gubni stuzi の co の書き忘れ?
 bilgaがtertauだと、義務を負う者について問うことになってしまう。
 bilgaが無くても良かったかもしれないが、現状を問うより「どうあるべきか」
 を問うのだろうと推測してbilgaをseltauとした。]
+
 [guskant.2013-08-13: やっぱりbilgaいらない。消した。]
 
 

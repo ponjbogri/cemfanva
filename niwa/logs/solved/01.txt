@@ -1,13 +1,18 @@
 翻訳担当者： [la limna]
 
 ---co'a pinka---
+
 [la limna]: ちょっとわかりにくい、訳の部位 
+
 [la limna]: 「かつて・・・あった」pu ze'u pu
+
 [la limna]: 「されていくものである」i'u ba'a
 
 [guskant.2013-06-16:
 東西（stuna stici）の問題 > stuna と stici を並列にしないとsticiが主になってしまう。
+
 stuna jo'u stici ?
+
 stuna ju'e stici ?
 ]
 

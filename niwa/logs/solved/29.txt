@@ -1,21 +1,30 @@
 翻訳担当者： [nalteo]
 
 ---co'a pinka---
+
 [r][nalteo]:
 setca zei vidni
+
 [s][nalteo]:
 ratni zei dikca zei fanri
+
 ratni zei nejni zei fanri
+
 [t][nalteo]:
 bredi zei bevri
+
 [u][nalteo]:
 pagbu zei binxo
+
 [v][nalteo]:
 viska zei vitke
+
 [w][nalteo]:
 ka zei gunma
+
 [x][nalteo]:
 nu zei jadni zei spoja
+
 [y][nalteo]:
 ka zei ranxi
 
@@ -44,14 +53,18 @@ ti salcarce fi'o gerku do
 じになるのではないでしょうか。
 
 se tai lo remei se'arvidni としたほうがより標準的かと思います。
-________________
+
+
 [guskant]:
 標準的かどうかわからないが、変える必要も無さそう。
+
 cusku la'e lu ja'odzu li'o li'u fi'o relplita vidni ke punji larcu
 zo'e
+
 あるものを2面ビデオインスタレーションとして、「...行進する」を表現する
 ということなので、原文の訳として妥当な表現の1つ。
-________________
+
+
 [重城]:
 .ie
 
@@ -66,7 +79,8 @@ li remu とするほうが有用では?
 また「各」を訳出するなら、
 ro da mentu li pamu pi'e remu
 か。
-________________
+
+
 [guskant]:
 ba'o go'i
 
@@ -77,7 +91,8 @@ lo nu cirko lo pante cmima cu dunli lo nu klama kei lo ka zenba
 pau nai のほうが標準的かと
 
 .i pau nai xu sirji linji ro fasnu po lo vi terdi
-________________
+
+
 [guskant]:
 paunaiだと皮肉や反語になってしまうが、この文は答のわからない疑問を投げか
 けていて、疑問文であるという意味合い自体は残っているように見える。そうであ
@@ -87,7 +102,8 @@ paunaiだと皮肉や反語になってしまうが、この文は答のわか�
 省略していることを明示するなら
 li'o xukau ...
 でも良さそう。
-________________
+
+
 [重城]:
 あとでもっと良く考えてみますが、とりあえず、pau nai が皮肉や反語として定義
 されているとしたら、やや文化中立性(あるいは、lojban 内での整合性)に問題が
@@ -97,7 +113,8 @@ ________________
 単純に疑問文の形を取っているけれど、疑問ではない、という意味で定義されるべ
 きかと思います。
 ここらへんは lojban を改造する必要があるかと。
-________________
+
+
 [guskant]:
 paunai は皮肉や反語だけに限らないが、件の文は疑問の意味を保持しているの
 で paunai とは言えない。
@@ -105,31 +122,41 @@ paunai は皮肉や反語だけに限らないが、件の文は疑問の意味�
 
 [ponjbogri.2013-07-07: remei se'arvidni を relplita vidni ke punji
 larcu に変更]
+
 [guskant.2013-07-10: to metsnidu li pamu pi'e remu toi を to roda
 mentu li..に変更
+
 linjiの前に sirji を追加
+
 tertrube'e zdani を tertrube'e gubzda に変更(31との調整による) ]
+
 [guskant.2013-07-11: typo: cmanfunji > cmanfuji ]
+
 [guskant.2013-07-12: cmanfuji はcmaがcmaluのrafsiであるため、「山」の意
 味が入らないようだ。代替案として出されているlo .fujin. cmanaに変更]
 
 [重城:
-> 夜を徹して目指した富士山頂は
+> [nalteo]: 夜を徹して目指した富士山頂は
  lo nicte stodi farna ke cmanfuji stedu cu culno lo visyvi’e
+
 nicte stodi farna が僕にとっては、すこし意味が取りにくい。
 「夜的に不変なもの的な方向的な...」
+
 mulno nicte klama のほうが素直なように思う。
 「完了的な夜的に行く的な...」
 「目指す」と「行く」の違いは、時制の違いと考えられると思う。]
 
 [guskant.2013-07-12: 
 それもまた意味が取りにくい。tanruにするのをやめてみる
+
 lo .fujin. cmana stedu noi ru'i lo nitcu cu farna ke'a cu culno lo visyvi'e]
+
 [guskant.2013-07-12: 
 lo nicte stodi farna ke cmanfuji stedu cu culno lo visyvi'e を
  lo .fujin. cmana stedu noi ru'i lo nitcu cu farna ke'a cu culno lo
 visyvi'e
  に変更。意味が取りにくいという指摘があった。]
+
 [guskant.2013-07-14: lu ja'odzu fe'eco'u lo cmanfuji stedu lo
 tertrube'e zdani li'u を
 lu ja'odzu fe'eco'u lo .fujin. cmana stedu fe'eco'a lo tertrube'e

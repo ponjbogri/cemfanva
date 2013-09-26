@@ -1,19 +1,22 @@
 翻訳担当者： [guskant]
 
 ---co'a pinka---
+
 [guskant.2013-06-28:
 >  pe lo vi'a miltre be li parenono fa'u li parenono
+
  poi vi'a miltre li parenono fa'u li parenono
 ]
 
 [重城]:  11:54 AM Jul 8
 Selected text:
 xygylysy
+
 上で僕の試訳を使うなら、
 ji'u xygylytysy
 
 もとのままにするならば、細かいことですが、support したのは「計画」ではなく「計画した共同体」なので、lo xygylyjysy cecmu とする必要があるかと。
-Reply
+
 
 [guskant]: ie
 12:55 PM Jul 9
@@ -29,23 +32,21 @@ lo cecmu no'u xygylysy
 [guskant]: ie
 5:36 PM Jul 10
 
-[guskant]: Marked as resolved
-4:41 AM Jul 12
 
 [guskant]:  6:57 AM Jun 3
 Selected text:
 .xelsink.
-ji .xelsink.
-Reply
 
-[guskant]: Marked as resolved
-4:41 AM Jul 12
+ji .xelsink.
+
+
+
 
 [guskant]:  10:32 AM Jun 3
 Selected text:
 merodava'e
 あらゆるレベルの
-Reply
+
 
 [重城]: これだと「全ての物」レベルというひとつのレベルになってしまう。
 レベルには負は無いという暗黙の前提が必要になるが以下のようにすれば、一応表現できるか。
@@ -77,43 +78,42 @@ ro da zo'e ... me da va'e に展開できるということですね。
 納得です。
 9:15 AM Jul 10
 
-[guskant]: Marked as resolved
-4:41 AM Jul 12
+
 
 [guskant]:  10:30 AM Jun 3
 Selected text:
 cnijbi
 身近 cinmo jibni
-Reply
 
-[guskant]: Marked as resolved
-4:41 AM Jul 12
+
+
 
 [guskant]:  10:30 AM Jun 3
 Selected text:
 sivypo'eci'e nu ponse
+
 資本主義社会の所有
 sivni ponse ciste nu ponse
-Reply
 
-[guskant]: Marked as resolved
-4:41 AM Jul 12
+
+
 
 [guskant]:  10:28 AM Jun 3
 Selected text:
 banxa pracmu
-銀行資本 banxa ke cupra jicmu
-Reply
 
-[guskant]: Marked as resolved
-4:41 AM Jul 12
+銀行資本 banxa ke cupra jicmu
+
+
+
 
 [guskant]:  10:28 AM Jun 3
 Selected text:
 lo zu'o toltu'i
 抵抗行為
+
 zu'o to'e tugni 不賛成の行為
-Reply
+
 
 [重城]: tugni は「x3 が真である」ことへの同意なので、ここで tu'e tugni を使うと、銀行資本や資本主義社会の所有というものが存在することを否定していることになってしまう。
 つまり現実逃避的な感じ。
@@ -127,36 +127,33 @@ lo zu'o pante lo nu banxa ... としたほうが良さそうだが。
 [guskant]: ie
 9:05 PM Jul 7
 
-[guskant]: Marked as resolved
-4:41 AM Jul 12
+
 
 [重城]:  10:32 AM Jul 7
 Selected text:
 fange
+
 この場合の「他者」は lo fange でしっくりきますね。
 自分達とは異質なものといった意味で。
 
 たとえば「自分と他者」と言うときの他者は lo drata になると思います。
-Reply
 
-[guskant]: Marked as resolved
-4:40 AM Jul 12
 
 [重城]:  10:36 AM Jul 7
 Selected text:
 jikca
+
 「コミュニケーション」に lo nu jikca はしっくり来ますね。
 僕のところもこっちで再検討してみます。
 「誰かとコミュニケーションする」なら jikca zo'e で、
 もっと相互的な「コミュニケーション」だとすると lo ka jikca simxu といったところでしょうか。
-Reply
 
-[guskant]: Marked as resolved
-4:40 AM Jul 12
+
 
 [重城]:  10:56 AM Jul 7
 Selected text:
 ju'a
+
 ju'a はニュートラルな evidential 。つまり「私が思う」でも「私は聞いた」でも「私は見た」でもなく「私はそう言っているだけ」だ。
 もちろん ju'a に他の evidential を否定する意味もないから「根拠がない」という意味を積極的に表すこともない。
 ju'a pei によって根拠を問うくらいしか用途はない。
@@ -168,7 +165,7 @@ ju'a pei によって根拠を問うくらいしか用途はない。
 
 CLL 13.11
 For the most part, using "ju'a" is equivalent to using no evidential at all
-Reply
+
 
 [重城]: 訳案
 
@@ -193,16 +190,16 @@ Evidential. Used to express a non-specific/elliptical source of information or i
 また、ここでの「表す」にこめられた、「実際にどうであるかはとくに言っていない」というニュアンスが ju'a で表すことができるので、適切なように思えてきました。
 10:29 AM Jul 8
 
-[guskant]: Marked as resolved
-4:40 AM Jul 12
+
 
 [guskant]:  10:26 AM Jun 3
 Selected text:
 lo'e to'e jikca
 「反社会的人物」
+
 泥棒は、他人に与える影響が大きいという意味で、「to'e jikca 隠遁系？」というより、むしろ非常に社会的だから、泥棒について形容するなら xlajikca (xlali jikca) の方が適切。
 しかし著者は「反社会的人物とのコミュニケーション jikca lo'e to'e jikca」という奇妙さを強調したいように見える。
-Reply
+
 
 [guskant]: to'e jikca を採用。著者に確認済
 11:05 AM Jun 18
@@ -210,14 +207,20 @@ Reply
 [重城:
 > lo'e to'e jikca no'u lo zerle'a
 jikca は社会ではなく社交
+
 反社会的人物
+
 lo cecmu bradi コミュニティの敵
+
 lo cecmu to'e tinbe コミュニティに服従しないもの
+
 lo to'e tinbe be fi lo cecmu 
+
 tinbe [tib] gismu 
 x1 obeys/follows the command/rule x2 made by x3; 
 (adjective:) x1 is obedient.  See also minde, lacri, javni, flalu, zekri. 
 ]
+
 [重城]: 著者の意図がそこにあるのであれば、それでいい気もするが、jikca は social の「社会」よりも「社交」の意味を表していると思う。
 むしろ、ここで言う「社会」は lo cecmu だと思う。
 今回のようなコンテキストなしで「反社会的人物」を訳すなら、lo cecmu bradi とか lo cecmu to'e tinbe とか、より説明的に lo to'e tinbe be fi lo cecmu とか、か。
@@ -228,10 +231,13 @@ lo to'e jikca だと「社交の反対」で、僕の感じる語感からする
 
 la djan. jikca la djein.
 「ジョンはジェーンと交際する」
+
 la djan. na jikca la djein.
 「ジョンはジェーンと交際しない」
+
 la djan. to'e jikca la djein.
 「ジョンはジェーンに交際の反対をする」
+
 ジョンはジェーンと絶交したということになるだろうか。
 
 日本語で普通に名詞として「社会」と言った場合、lo nu jikca ではなく lo cecmu であると思う。
@@ -253,73 +259,65 @@ lo'e cecmu to'e tinbe no'u lo zerle'a
 以前に、自分で「社会」を jikca で訳そうとして感じた違和感を引きずっていたので、すこし変に感じてしまいました。
 10:32 AM Jul 8
 
-[guskant]: Marked as resolved
-4:40 AM Jul 12
+
 
 [guskant]:  7:36 PM Jun 3
 Selected text:
 baxseljibri
-baxseljibri: 
-$x_1$ se jibri $x_2$ poi ke'a banxa $x_3$ boi $x_4$
-$x_1=s_1$ は銀行 $x_2=b_1=s_2$、$x_3=b_2$ （金融体系）・ $x_4=b_3$ （銀行の機能）の銀行員
-$x_1=s_1$ is a bank clerk of a bank $x_2=b_1=s_2$ owned by/in banking system $x_3=b_2$ for banking function(s) $x_4=b_3$ (event).
-Reply
 
-[guskant]: Marked as resolved
-4:40 AM Jul 12
+baxseljibri: 
+
+$x_1$ se jibri $x_2$ poi ke'a banxa $x_3$ boi $x_4$
+
+$x_1=s_1$ は銀行 $x_2=b_1=s_2$、$x_3=b_2$ （金融体系）・ $x_4=b_3$ （銀行の機能）の銀行員
+
+$x_1=s_1$ is a bank clerk of a bank $x_2=b_1=s_2$ owned by/in banking system $x_3=b_2$ for banking function(s) $x_4=b_3$ (event).
+
+
 
 [guskant]:  10:22 AM Jun 3
 Selected text:
 te gusni
+
 「ライトプロジェクター＝光源」とした。lujvoなら tergu'i
 プロジェクターの直訳なら mirtci (minra tutci) だが、これにはスクリーンも含まれそう。
 また、すでに gau minra と言ってあるので、minraを含むlujvoを言う必要がない
-Reply
 
-[guskant]: Marked as resolved
-4:39 AM Jul 12
+
+
 
 [guskant]:  10:19 AM Jun 3
 Selected text:
 doi romei .io be lo zerle'a
 「泥棒のみなさま」
-PAmeiのx2を集合にしない方針を採用
-http://www.lojban.org/tiki/BPFK+Section%3A+Numeric+selbri
-Reply
 
-[guskant]: Marked as resolved
-4:39 AM Jul 12
+PAmeiのx2を集合にしない方針を採用
+
+http://www.lojban.org/tiki/BPFK+Section%3A+Numeric+selbri
+
+
 
 [guskant]:  11:00 AM Jun 3
 Selected text:
 .xelsinkis.
-ji xelsink
-Reply
 
-[guskant]: Marked as resolved
-4:39 AM Jul 12
+ji xelsink
+
+
 
 [guskant]:  7:02 AM Jun 3
 Selected text:
 .lamd.
+
 ji lamd
-Reply
 
-[guskant]: Marked as resolved
-4:39 AM Jul 12
 
-[guskant]:  6:52 AM Jun 3
-Selected text:
-mo'o
-本文に fukpu'i したら、以前に付いていたコメントが消えました。すみません。
-Reply
 
-[guskant]: Marked as resolved
-4:39 AM Jul 12
 
 [重城]:  11:50 AM Jul 8
 Selected text:
 residency
+
 residency が訳出されてない?
 
 「レジデント」という意味ならば、tadni あたりを使うか。
@@ -335,12 +333,11 @@ HIAPを運営しているcecmuはあるはずだが、この作品はProgramme�
 一方、supported byの訳にはcecmuを追加する。
 12:55 PM Jul 9
 
-[guskant]: Marked as resolved
-4:39 AM Jul 12
 
 [重城]:  10:40 AM Jul 8
 Selected text:
 かもしれない。
+
 「かもしれない」が訳出されてない?
 la'a でいいのかな。
 
@@ -350,11 +347,10 @@ Reply
 [guskant]: 「かもしれない」を ka'e で訳出している。むしろ「できる」のほうをわざと無視した。この「できる」は心理的な可能性であり、「かもしれない」とほぼ同義。
 12:53 PM Jul 9
 
-[guskant]: Marked as resolved
-4:39 AM Jul 12
 
 [重城]: 
 > jikca
+
 「コミュニケーション」に lo nu jikca はしっくり来ますね。
 僕のところもこっちで再検討してみます。
 「誰かとコミュニケーションする」なら jikca zo'e で、
@@ -362,6 +358,7 @@ Reply
 
 [重城]: 
 > fange
+
 この場合の「他者」は lo fange でしっくりきますね。
 自分達とは異質なものといった意味で。
 
@@ -371,20 +368,22 @@ Reply
 [重城]:  11:13 AM Jul 7
 Selected text:
 jibni
+
 語感の違いかもしれませんが、「潜在する」だと「そばにいる」よりも「中にいる」といった感じがします。
 mipri jibni よりも mipri nenri のほうが良さそう。
 sumti が lo cecmu ではなく ma'a ならば mipri jibni だと思うのですが。
 
 lo zerle'a cu mipri jibni ma'a
 lo zerle'a cu mipri nenri lo cecmu
-Reply•Resolve
 
 [guskant]: ie 
+
 nenriに変更
 9:01 PM Jul 7
 
 [重城]:
 > lo zu'o toltu'i fi lo du'u banxa pracmu gi'a sivypo'eci'e nunpo'e
+
 tugniはx3が真であることへの同意
 むしろpanteを使う
 lo zu'o pante lo nu banxa pracmu...

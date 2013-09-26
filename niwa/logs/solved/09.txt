@@ -1,19 +1,28 @@
 翻訳担当者： [nalteo]
 
 ---co'a pinka---
+
 [bm][nalteo]:
 prinlamda
+
 [bn][nalteo]:
 fetsi ke nunspebi'o zei taxfu
+
 .uendidrese
+
 [bo][nalteo]:
 taksido
+
 [bp][nalteo]:
 speni zei binxo zei nupre
+
 [bq][nalteo]:
 実際か噂か
+
 [guskant.2013-07-14: miltre の前に vi'a を追加]
+
 [guskant.2013-07-14: {prinlamda} > {.lamdas. prina}]
+
 [guskant.2013-07-14: li parenono fa'u pamunono の後に toi を追加]
 
 [guskant.2013-09-24: 校正]

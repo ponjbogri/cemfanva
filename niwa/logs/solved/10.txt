@@ -1,32 +1,39 @@
 翻訳担当者： [guskant]
 
 ---co'a pinka---
+
 [guskant]:  10:43 AM Jun 3
 Selected text:
 lo .zen. nu preti ja danfu
+
 禅問答
-Reply
+
 
 [guskant]: 問答？
 nunreispu < nu preti spuda
+
 nunkemreijavdanfu < nu ke preti ja danfu
+
 2:02 PM Jun 3
 
-[guskant]: Marked as resolved
-5:09 AM Jul 12
 
 [guskant]:  2:01 PM Jun 3
 Selected text:
 zo'e sezreispu lo te ciste po'u vo'a
+
 「自分の役割を自問自答する」＝「システムの構成要素としての自分について自問自答する」
 zo'e te preti je ve preti je spuda je se spuda fi'o te tavla lo te ciste po'u vo'a
-Reply
+
 
 [guskant]: 自問自答
 sezreispu < sevzi preti spuda:
+
 $x_1$ te preti $x_2$ zi'o zo'e poi ke'a sevzi $x_1$ ku'o goi ko'a gi'e spuda ko'a zi'o
+
 $x_1=se_2=p_3=sp_1$ は題目$x_2=p_2$について自問自答する
+
 $x_1=se_2=p_3=sp_1$ answers one's own question about subject $x_2=p_2$
+
 2:01 PM Jun 3 (edited 7:44 PM Jun 3)
 
 [重城]: これだと、「システムの構成要素のうちの自分であるものについて問う」ことになってしまう。
@@ -68,42 +75,47 @@ sevziの意味については漠然としていて、「自問自答」の一般
 読み直してみたら腑に落ちました。
 10:23 AM Jul 8
 
-[guskant]: Marked as resolved
-5:09 AM Jul 12
+
+
 [guskant]:  10:41 AM Jun 3
 Selected text:
 xlali danlu
+
 害獣 xlali danlu:
 tanruでも良さそう。
 lujvoにするなら
-xlada'u:
-$x_1$ danlu $x_2$ gi'e xlali $x_3$ boi $x_4$
-$x_1=d_1$ は $d_2$ 種の害獣、 $x_2$ にとって、基準 $x_3$ による
-$x_1=d_1$ is a bad animal/creature of species $d_2$ for $x_2$ by standard $x_3$
-Reply
 
-[guskant]: Marked as resolved
-5:09 AM Jul 12
+xlada'u:
+
+$x_1$ danlu $x_2$ gi'e xlali $x_3$ boi $x_4$
+
+$x_1=d_1$ は $d_2$ 種の害獣、 $x_2$ にとって、基準 $x_3$ による
+
+$x_1=d_1$ is a bad animal/creature of species $d_2$ for $x_2$ by standard $x_3$
+
+
+
 
 [guskant]:  10:40 AM Jun 3
 Selected text:
 lo gugypausle
+
 lo jecta be lo gugde pagbu selci
 自治体の「政府 lo jecta」という意味を追加してある。
 gugypausle に jecta の意味が含まれるなら、jectaは不要
-Reply
+
 
 [guskant]: 不要と考え jecta be lo を消してみた
 11:07 AM Jun 29
 
-[guskant]: Marked as resolved
-5:09 AM Jul 12
+
 
 [guskant]:  6:35 AM Jun 3
 Selected text:
 .i tu'e ce'o gi
+
 .i の直後に ce'o gi ... gi があると、構文エラーになる
-Reply
+
 
 [guskant]: .itu'e ce'o gi ... gi ... (tu'u)
 あるいは
@@ -128,6 +140,7 @@ pappy だと zoi の部分がうまく書けないことや、その他、ちょ
 10:32 AM Jul 5
 
 [guskant]: je'e
+
 i. と同じ意味の接続詞はわかりません。
 9:09 PM Jul 7
 
@@ -136,37 +149,41 @@ nalteo さんが使ってました。
 ki'e
 9:57 AM Jul 8
 
-[guskant]: Marked as resolved
-5:09 AM Jul 12
+
 
 [guskant]:  7:01 AM Jun 3
 Selected text:
 .kamfor.
-ji kamforas ji kus
-http://en.wikipedia.org/wiki/Cinnamomum_camphora
-Reply
 
-[guskant]: Marked as resolved
-5:08 AM Jul 12
+ji kamforas ji kus
+
+http://en.wikipedia.org/wiki/Cinnamomum_camphora
+
+
+
 
 [guskant]:  7:40 PM Jun 3
 Selected text:
 muzyku'a
 ギャラリー
-muzyku'a:
-$x_1$ kumfa .ije $x_2$ se muzga bu'u $x_1$
-$x_1=k_1$ は $x_2=m_2$ を展示するギャラリー／展示室
-$x_1=k_1$ is a gallery of museum/exibition hall for exhibiting $x_2=m_2$
-Reply
 
-[guskant]: Marked as resolved
-5:08 AM Jul 12
+muzyku'a:
+
+$x_1$ kumfa .ije $x_2$ se muzga bu'u $x_1$
+
+$x_1=k_1$ は $x_2=m_2$ を展示するギャラリー／展示室
+
+$x_1=k_1$ is a gallery of museum/exibition hall for exhibiting $x_2=m_2$
+
+
+
 
 [重城]:  5:34 PM Jul 4
 Selected text:
 nu
+
 同上: nei が zu'o ... を指すのであれば、nu は不要かと
-Reply•Resolve
+
 
 [guskant]: ie
 9:12 PM Jul 7
@@ -180,11 +197,12 @@ https://groups.google.com/d/msg/lojban/1jw3fYM6JNI/1jtUHcajzkYJ
 [重城]:  5:17 PM Jul 4
 Selected text:
 nu
+
 上と同じくこの nu は不要に思える。
 go'i = zu'o ... なので、
 go'i の x1 は行為となる。
 その行為によって問うわけだと思う。
-Reply•Resolve
+
 
 [guskant]: ie
 9:11 PM Jul 7
@@ -192,9 +210,10 @@ Reply•Resolve
 [重城]:  5:16 PM Jul 4
 Selected text:
 nu
+
 この nu はいらないと思う。
 nei は zu'o ... の全体を指すと思うのですが、そうすると、lo nei で「... という行為」を表せる。lo nu nei とすると「何かが ... という行為であるということ」となり文全体の意味は「何かが ... という行為であるということが理解の反対である」ということになってしまうが、理解の反対であるのは行為そのものであると思われる。
-Reply•Resolve
+
 
 [guskant]: ie
 9:11 PM Jul 7
@@ -202,9 +221,10 @@ Reply•Resolve
 [重城]:  5:20 PM Jul 4
 Selected text:
 nu
+
 この nu は du'u のほうが良いように思える。
 nu は出来事だけど、「何が必要であるか」は命題なので。
-Reply•Resolve
+
 
 [guskant]: pretiのx2は質問の主題: nu
 9:11 PM Jul 7
@@ -238,6 +258,7 @@ preti lo nu lo danlu ku nitcu ko'a
 質問の主題を命題と見なしても、この違和感は消せない。
 なぜなら「必要性とは何なのか」という命題は質問自体を表していて、質問の主題ではないから。
 そこで、これをsedu'uで受けてpretiのx1とする。
+
 lo go'i cu jai ta'i preti fai lo sedu'u lo danlu noi ke'a ma'a po'u loi remna na'e ka'e jikca ku'o nitcu makau pe ma'a
 と変更。
 1:03 PM Jul 9

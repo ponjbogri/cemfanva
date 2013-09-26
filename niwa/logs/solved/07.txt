@@ -1,10 +1,13 @@
 翻訳担当者： [nalteo]
 
 ---co'a pinka---
+
 [bs][nalteo]:
 gaurpikapikapika
+
 gau dircydircydirce
-________________
+
+
 [重城]:
 cidjrspageti 等からの類推で考えると、[rafsi] + r + X の組み合わせは、
 rafsi 部分の x1 を X がしぼりこむという構造だと思う。
@@ -14,7 +17,8 @@ pikapikapika でしぼりこむという形で、sergusrpikapikapika とし、�
 をつけて、
 lu la .taman. noi larske balcu'e gau sergusrpikapikapika li'u といった
 形になる気がする。
-________________
+
+
 [guskant]:
 何をするかは本文で説明しているので、題名はそのままで良さそう。
 
@@ -23,32 +27,43 @@ ________________
 
 意味的にも空間的な「大」よりももっと抽象的な「大」なので banli のほう
 が良さそう。
-________________
+
+
 [guskant]:
 ba'o stika
 
 [bu][nalteo]:
 ckule zei dinju
+
 [bv][nalteo]:
 nunctuca zei kumfa
+
 [bw][nalteo]:
 lanli zei kumfa
+
 [bx][nalteo]:
 nenri zei klaji
+
 [by][nalteo]:
 klaji zei tergu'i
+
 [bz][nalteo]:
 bartu zei junla
+
 [ca][nalteo]:
 rapli zei dirce
+
 [cb][nalteo]:
 gunka zei cmima
+
 [cc][nalteo]:
 ka zei panra zei claxu
-________________
+
+
 [重城]:
 kamni'o: ka cnino でも良さそう
-________________
+
+
 [guskant]:
 ここでの意味はむしろ ka zei panra zei claxu の方が正確
 
@@ -61,15 +76,18 @@ pe -> vu'o pe
 
 論理的または非論理的に接続された sumti 全体を関係節(句)で修飾するには
 vu'o が必要。
-________________
+
+
 [guskant]:
 sumti は接続していない。tanru内の接続。vu'oは不要。
-________________
+
+
 [重城]:
 確かにそうですね。tanru の面白い使いかたですね。
 
 [cf][nalteo]:
 .kaminogen. kuldi'u
+
 [cg][重城]:
 noi kuldi'u と pe la .taman. ...
 のふたつの関係節(句)を、ひとつの sumti (la .kaminogen.) につけるためには
@@ -77,18 +95,21 @@ noi kuldi'u と pe la .taman. ...
 
 vu'o pe la .kaminogen. noi kuldi'u zi'e pe la .taman. noi larske
 balcu'e
-________________
+
+
 [guskant]:
 [多摩美術大学[上野毛校舎]] なので、並列よりも ku'o で切るほうが適切
 
 ku'o を挿入した
-________________
+
+
 [guskant]:
 報告:
 la .kaminogen. noi kuldi'u ku'o pe la .taman. noi larske balcu'e
 これはcamxesでエラーになる。
 kaminogenをbroda に変えるとエラー回避
 新文法なら kaminogen でもエラーにならない?
+
 [ch][重城]:
 fi'o simxu selfri be so'i fityzu'e guncmi: これだと「たくさんのスタッ
 フの相互的体験として何かがあり、」といった感じ。
@@ -118,7 +139,8 @@ fi'o simxu selfri be so'i fityzu'e guncmi: これだと「たくさんのスタ�
 .i ta'i lo nu lifri fi'o kansa so'i sezmukyzu'e guncmi
 「多くの自我的動機的行為的の仕事的構成員と一緒にする経験というやりかた
 で」
-________________
+
+
 [guskant]:
 ほぼ採用して変更済
 va'o lo se lifri be fi'o kansa so'i mukyzu'e guncmi
@@ -129,7 +151,8 @@ lo basycau nunji'e pluka
 えのない(生の悦び)」と僕は読みましたが、「(かけがえのない生)の悦び」の可
 能性もありますね。
 前者なら lo basycau ke nunji'e pluka となりますが。
-________________
+
+
 [guskant]:
 後者として保持
 
@@ -148,14 +171,16 @@ CLL 10.23 に X .i BAI bo Y = X BAI le nu Y とある。
 より日本語に忠実に(つまり、より曖昧に)表現したければ、se ja'e ku を使えば、
 「何かを結果のもととして」あるいはよりわかりやすく、ただし不正確に言うな
 らば「何かを原因として」と言える。
-________________
+
+
 [guskant]:
 seja'eku を採用
 
 [ck][重城]:
 ba'o ではなく、pu'i を作った理由は何ですか。
 pu'i の意味が今いちつかめないので。
-________________
+
+
 [guskant]:
 「実施」は「潜在的に可能性があったことを実現させる」ということを表して
 いると思う > pu'i
@@ -167,21 +192,30 @@ ________________
 
 試訳:
 .i ba'o finti fo lo si'o ponse co kansa lo drata .e lo kansa sidbo
-________________
+
+
 [guskant]:
 drata を採用。kanpo'e と te kansi'o の x1 を lo drata とすれば、意味上の問
 題はない
-________________
+
+
 [重城]:
 .ie
 
 [guskant.2013-07-10: bracu'e 2箇所を balcu'e に変更
+
 fityzu'e を mukyzu'e に変更
+
 simpo'e ja simsi'o を kanpo'e ja te kansi'o に変更
+
 noi kuldi'u の後に zi'e を挿入(ku'o だと camxesでエラーになるので念のためzi'e にした)
+
 fi'o simxu selfri be を va'o lo se lifri be fi'o kansa に変更
+
 frica を drata に変更]
+
 [guskant.2013-07-12: ja'eku の前に se を追加]
+
 [guskant.2013-07-14: toi を追加]
 
 [guskant.2013-09-24: 校正]

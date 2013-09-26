@@ -1,9 +1,11 @@
 翻訳担当者： [萩原]
 
 ---co'a pinka---
+
 [bh][萩原]:
 どう訳す?
-________________
+
+
 [guskant]:
 ru'i po'o ku fi'o pamei [vo'a/ku]
 [fatne farna cadzu/fa'a lo fatne cu cadzu] ?
@@ -13,6 +15,7 @@ ru'i po'o は採用
 
 [bi][萩原]:
 デモ(行進)  nunja'odzu (nu jarco cadzu)
+
 [bj][萩原]:
 原発 = ratdicfanri (ratni dikca fanri)
 
@@ -65,6 +68,7 @@ mentu ...  toi は正当ですが、多分、lojban の to ...  toi はより独
 
 [重城]: *6: lo mentu li pano pi'e nopa とするか li pano pi nopa ju'u xano とす
 るか
+
 pi は default では10進数の小数点となるのではないでしょうか。どちらにする
 かは難しい問題です。片方は簡潔だが不正確、もう一方は正確だが、煩雑。この「正確
 さ」と「簡潔性」のトレードオフは永遠のテーマだと思います。今回のこのケー
@@ -135,6 +139,7 @@ tugni は命題が真であるということへの同意なので、原発が�
 pante のほうが良いように思う。
 
 [重城]: *13: 新宿: 上記「全体への提案」参照のこと
+
 [重城]: *14: 原発: 上記「全体への提案」参照のこと
 
 [重城]: *15: 上記を考慮した試訳
@@ -188,6 +193,7 @@ x2 は se du'u となっているが、これは du'u 以下の内容を表す�
 どちらがいいかわかりませんが、gi'e でつなぐと「逆走」と「ふるまい」が並
 列な関係に見えてしまう。僕ならば、fau lo nu tarti または、fi'o se tarti lo
 nu ...  とする。
+
 [重城]: *19: 上記を考慮した試訳
 .i viska lo ralci filselsku je se cusku be loi se cuntu poi se cpasu
 ca lo nu le pa nanmu goi ko'a cu fatne cadzu seru'u lo prenu fi'o se
@@ -200,18 +206,23 @@ tarti lo nu ko'a na ckini lo nunja'odzu selcku
 うので go'i 類よりもより vague な la'e di'u や la'e dei を使ってもっと
 曖昧に表現したほうが良さそう。di'u や dei は sentence に限らず、もっと範囲
 が不明瞭な utterance を指す、と CLL にある。
+
 [重城]: *21: porpi は x1 が x2 に分解する だと思うので、
 porpi fa lo ...  のように fa が必要。また、ここはどっちがいいか決めかねる
 が porpi の前に gau を置くことも検討してみては? ただし、僕の見ている辞書
 と異なる定義があり agent ありの porpi の定義も存在するのだとしたら、どち
 らを選択するかは訳者におまかせします。
+
 [重城]: *22: 上記を考慮した試訳
 .i ta'i la'e di'u troci lo nu gau porpi fa le nunja'odzu noi gunma
 fasnu lo se cuntu sevzi klani
+
 [重城]: *23: 「それすら」を訳出するのに、ここに po'o を入れるという案
 「逆走することだけで」といったニュアンスで
+
 [重城]: *24: 「なり得る」を訳出するなら、ここに ka'e を入れたらどうだろうか
 ただし、意図的に訳出していないのならばこのかぎりではない
+
 [重城]: *25: 上記を考慮した試訳
 .i se finti ji'u lo sidbo noi du'u lo nu cadzu po'o sefa'e lo
 nunja'odzu poi jarco lo pa jecta notci kei ji'a cu ka'e drata
@@ -226,6 +237,7 @@ nunja'odzu
 saiまたはba'eを加え、ji'asaiまたはba'eji'aとすれば「すら」という強調を表
 せる。
 ka'eがあればcuは不要
+
 .i se finti lo si'o lo nu cadzu sefa'e lo nunja'odzu poi jarco lo pa
 jecta notci kei ji'asai ka'e drata nunja'odzu
 ]

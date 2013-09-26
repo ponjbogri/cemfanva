@@ -1,11 +1,14 @@
 翻訳担当者： [萩原]
 
 ---co'a pinka---
+
 [ap][萩原]:
 		先進国 (purci farvi gugde)
 		cf. 発展途上国 cabyfarvi gugde
+
 	[萩原]:
 		先進国 favli'egu'e 発展途上国 nalfavli'egu'e
+
 [aq][萩原]:
 		グローバリズムの覇権主義
 
@@ -13,14 +16,21 @@
 本来
 ru'a (UI2) 
 
-肖像画
-sevzi pixraは自画像？
+肖像画 > [萩原]: sevzi pixra
+
+は自画像？
+
 pixra be lo prenu > prexra 
+
 $x_1$ pixra $x_2$ noi ke'a prenu ku'o $x_3$
+
 $x_1=pi_1$ はモチーフ$x_2=pi_2=pr_1$の作者$x_3=pi_3$による肖像
+
 note: {vi'a} {prexra} で肖像画; {vi'u} {prexra} で立体像。
 cf. {prenu} {pixra}
+
 $x_1=pi_1$ is a portrait of $x_2=pi_2=pr_1$ (motif) by $x_3=pi_3$ (artist).
+
 note: {vi'a} {prexra} for portrait picture; {vi'u} {prexra} for statue.
 cf. {prenu} {pixra}
 ]
@@ -84,6 +94,7 @@ cf. {prenu} {pixra}
   「プロジェクトの説明」
 
 [重城]: *7: 上記を考慮した試訳
+
   .i ckupra lo liste be lo'i ro ve ciksi be fi lo lardai te platu poi
   gasnu ke'a ba lo se detri be li renonovo be'o poi fanva fi lo cixa bangu
   fu ke'a

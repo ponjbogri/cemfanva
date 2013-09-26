@@ -1,8 +1,10 @@
 翻訳担当者： [萩原]
 
 ---co'a pinka---
+
 [guskant.2013-06-16:
-ためらう nuntoljdi (nu to'e jdice)
+> [萩原]: ためらう nuntoljdi (nu to'e jdice)
+
 nuは不要？
 
 裏返し fatne manri
@@ -16,34 +18,44 @@ lu lo zo tamera,un navni tubnu li'u
 - cmene化の理由は「でもね」のコメント群を参照
 
 - 訳注が必要なら sa'a を入れる
+
 to'i sa'a zo tamera,un no'u lo banjupunu valsi cu se smuni la'e zo
 toljdi toi
+
 ただし意味は本文で解説されているので不要か
 
-> .i pu cpedu lo nu zbasu lo navni tubnu poi se tarmi zo nuntoljdi to zoi py. tamerau py. toi ji'u lo xance ciska pixra
+> [萩原]: .i pu cpedu lo nu zbasu lo navni tubnu poi se tarmi zo nuntoljdi to zoi py. tamerau py. toi ji'u lo xance ciska pixra
+
 - cmene化案を採用すると
 
 .i pu cpedu lo nu zbasu lo navni tubnu poi se tarmi [lu'e la tamera,un] ji'u lo xance ciska pixra
 
-> .i lo nu se cfipu je xlafri je to'e jdice lo nunjdice kei smuni zoi py. tamerau py. bau lo ponjo
+> [萩原]: .i lo nu se cfipu je xlafri je to'e jdice lo nunjdice kei smuni zoi py. tamerau py. bau lo ponjo
+
 - cmene化案を採用すると
 
 .i lo [du'u] selfi'u je xlafri je toljdi lo nunjdi [cu] smuni [zo tamera,un bau lo banjupunu]
+
 - du'u: 動詞の「意味」は、事象ではなくて命題であるような気がする（真理値を表す）
+
 - selfi'u je xlafri je toljdi lo nunjdi は、lujvoに揃えてみただけ。変えなくても大丈夫
 
-> cmecau
+> [萩原]: cmecau
+
 「発言者の名前が無い」という意味で、 cmecau は正確
 mipriだと、「実は名前がある」ということを明言したことになりそうなので、原文以上のことを主張してしまう
 ]
-________________
+
+
 [萩原]:
 含みをもたせるために cmene 化して訳注を入れない形にしようかと思います。
-________________
+
+
 [萩原]:
 ちなみに zo + cmene をこのようにselbri化して使えるのは知りませんでした
 が、どこかに解説があったりしますか?
-________________
+
+
 [guskant]:
 selbri化ではなくて、
 lo pe zo tamera,un navni tubnu

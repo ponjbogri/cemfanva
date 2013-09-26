@@ -1,13 +1,17 @@
 翻訳担当者： [nalteo]
 
 ---co'a pinka---
+
 [af][nalteo]:
 blanu zei prina
 prindiazo
+
 [ag][nalteo]:
 grasu zei penbi
+
 [ah][nalteo]:
 ka zei nabmi zei sanji
+
 [ai][nalteo]:
 「印刷用」を訳すなら
 cartu bredi blapri
@@ -77,9 +81,8 @@ rafsi + r + ...  の形で作るほうが良いかと思います。ちなみに
 ては、on the fly で作って良いということが、CLL に明記してあるが fu'ivla に
 ついてはそのような記述は読んだ覚えがありません。
 
-[guskant.2013-07-12: dziao を diazon に変更。
- 最低4文字でslinku'i testは通る。例:  anji「漢字」camxesは、CLLに明記され
-ていない母音の連続に厳しく、iaoを許さない。jbovlasteは通る。dzi'auや
+[guskant.2013-07-12: dziao を diazon に変更。 
+最低4文字でslinku'i testは通る。例:  anji「漢字」camxesは、CLLに明記されていない母音の連続に厳しく、iaoを許さない。jbovlasteは通る。dzi'auや
 dzi'azoなどにするとcamxesも通る。どちらが正しくチェックしているのか不明。
 ここでは diazonium から取った cmene にしておく(xumrdi,azoは発音しにく
 いので)。]
@@ -93,12 +96,10 @@ li musovo fa'u bivopa
 [重城]: *6: mintu: 同プロジェクトの訳として mintu はやや意味的に違うように思う。
 
 -> (la'e) de'u
-もちろん tanru なのだから、どのような関係でもいいのではあり、この mintu は
- x2 に 29 のプロジェクトを取る、とも言えるかもしれないが、そんなことを言っ
+もちろん tanru なのだから、どのような関係でもいいのではあり、この mintu はx2 に 29 のプロジェクトを取る、とも言えるかもしれないが、そんなことを言っ
 たら何でも言えてしまう。僕なら、de'u を使うかな。
 
-[guskant.2013-07-12: 29のプロジェクトを指すとは明記されていない。
- 28だけを読んでもわかるようにするために、「同種のプロジェクト」であるこ
+[guskant.2013-07-12: 29のプロジェクトを指すとは明記されていない。28だけを読んでもわかるようにするために、「同種のプロジェクト」であるこ
 とを言わなければいけない。mintuを保持。]
 
 [重城]: なるほど、わかりました。(重城)
@@ -106,13 +107,14 @@ li musovo fa'u bivopa
 [重城]: *7: finpla: *これは問題ないと思うが後で思い直したときのためそのままに
 してある*
 
- [guskant.2013-07-12: je'e]
+[guskant.2013-07-12: je'e]
 
 [重城]: 以下は後で読み直して消す。
 on the fly で作る lujvo では場所構造が想像しやすく作る必要がある。一番想
 像されやすいのは、tanru と同じ場所構造ということで、この場合 platu の x1
 は agent となる。計画そのものを x1 にしたければ、finselpla とするか se
 finpla としたほうが良いだろう。
+
 [重城]: *8: 上記を考慮した試訳: 違いは mintu -> de'u だけ
 .i cartu bredi blapri fi lo cando pixra po'e lo *de'u* finpla skina
 gi'e te jmina lo jacre'ipenbi xraci'a
@@ -127,7 +129,9 @@ pe'a として「たとえ」とする必要があるだろう。
 [guskant.2013-07-12: je'e]
 
 [重城]: *10: そのままが訳出されてない: punji -> to'e galfi punji
+
  [guskant.2013-07-12: je'e ただし galfi の代わりに stika とする]
+
 [重城]: *11: 上記を考慮した試訳:
 .i to'e galfi punji se tai lo valsi lo kamnamsanji pe ra'i lo finpla
 pruce
