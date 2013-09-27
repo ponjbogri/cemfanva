@@ -6,17 +6,28 @@
 <script type="text/javascript">
 <!--
 function jarco() {
-    document.getElementById("jufra_pnk").src = "./pnk/blank.html";
     var n = document.getElementById("cuxna").selectedIndex;
+    var m = document.getElementById("jmina").selectedIndex;
     var jpn = "./jpn/" + document.getElementById("cuxna").options[n].value + ".html";
     var jbo = "./jbo/" + document.getElementById("cuxna").options[n].value + ".html";
     document.getElementById("jufra_jpn").src = jpn;
     document.getElementById("jufra_jbo").src = jbo;
+    if (m > 0) {
+    var jmn = "./" + document.getElementById("jmina").options[m].value + "/" + document.getElementById("cuxna").options[n].value + ".html";
+    document.getElementById("jufra_jmn").src = jmn;
+    } else {
+    document.getElementById("jufra_jmn").src = "./pnk/blank.html";
+    };
 };
-function pinka() {
+function minjarco() {
     var n = document.getElementById("cuxna").selectedIndex;
-    var pnk = "./pnk/" + document.getElementById("cuxna").options[n].value + ".html";
-    document.getElementById("jufra_pnk").src = pnk;
+    var m = document.getElementById("jmina").selectedIndex;
+    if (m > 0) {
+    var jmn = "./" + document.getElementById("jmina").options[m].value + "/" + document.getElementById("cuxna").options[n].value + ".html";
+    document.getElementById("jufra_jmn").src = jmn;
+    } else {
+    document.getElementById("jufra_jmn").src = "./pnk/blank.html";
+    };
 };
 // -->
 </script>
@@ -82,12 +93,17 @@ document.write("<option value=\"31\">cipa mo'o</option>");
 document.write("<option value=\"32\">cire mo'o</option>");
 document.write("<option value=\"33\">cici mo'o</option>");
 document.write("</select>");
-document.write("<input type=\"button\" value=\"viska lo pinka\" onclick=\"pinka()\">");
+document.write("<select id=\"jmina\" size=\"4\" onclick=\"minjarco();\">");
+document.write("<option value=\"vmc\" selected=\"1\">-----</option>");
+document.write("<option value=\"pnk\">viska lo pinka</option>");
+document.write("<option value=\"eng\">English</option>");
+document.write("<option value=\"epo\">Esperanto</option>");
+document.write("</select>");
 document.write("</form>");
 document.write("<nobr>");
 document.write("<iframe id=\"jufra_jpn\" width=\"300\" height=\"400\"></iframe>");
 document.write("<iframe id=\"jufra_jbo\" width=\"300\" height=\"400\"></iframe>");
-document.write("<iframe id=\"jufra_pnk\" width=\"300\" height=\"400\"></iframe>");
+document.write("<iframe id=\"jufra_jmn\" width=\"300\" height=\"400\"></iframe>");
 document.write("</nobr>");
 document.write("</div>");
 // -->
@@ -97,8 +113,7 @@ document.write("</div>");
 <nobr>
 <iframe id="jufra_jpn" src="./jpn/title.html" width="300" height="400"></iframe>
 <iframe id="jufra_jbo" src="./jbo/title.html" width="300" height="400"></iframe>
-<iframe id="jufra_pnk" src="./pnk/title.html" width="300" height="400"></iframe>
-</nobr>
+<iframe id="jufra_jbo" src="./pnk/title.html" width="300" height="400"></iframe></nobr><iframe id="jufra_jbo" src="./eng/title.html" width="300" height="400"></iframe><iframe id="jufra_jbo" src="./epo/title.html" width="300" height="400"></iframe>
 </div>
 <div><a href="./niwa2013.html">cukta cmene</a></div>
 <div><a href="./noscript/01.html">pa mo'o</a></div>
