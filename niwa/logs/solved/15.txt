@@ -151,7 +151,9 @@ ratnenfanri ke'e barda nunja'ozu bu'u la cindjuk.
 
 - 「ひたすら一人で」はbridiを修飾するので、nonkansaをseltauとするよりも、
 sumtcitaでtermを作って入れると意味が明確になる。
+
 ru'i po'o ku 「ひたすら」
+
 fi'o pamei mi 「ひとりで」mi を省略してkuで切っても良い
 
 - 造語をせずに「先頭から最後尾までを」をca'u bi'o ti'aというsumtcitaで
@@ -164,6 +166,7 @@ fi'o pamei mi 「ひとりで」mi を省略してkuで切っても良い
 のbridiに入れると、逆の逆で正方向であると解釈できる恐れがある。
 「逆」を訳出するならsei va'i fatne [se'u] などの形で、bridiの意味への影
 響を避ける方が良い。
+
 .i ru'i po'o ku fi'o pamei mi cadzu ca'u bi'o ti'a sei va'i fatne
 se'u loi so'i pante ratnenfanri ja'odzu be bu'u la cinjuk
 ]
@@ -176,6 +179,7 @@ se'u loi so'i pante ratnenfanri ja'odzu be bu'u la cinjuk
 
 [重城]: *16: lo ralci se cusku je nunfirsku について(順番と nunfirsku 自体につ
 いて)
+
 とくに理由がなければ原文の「表情やメッセージ」に合わせて lo ralci
 nunfirsku je se cusku のほうが良さそう。また、辞書には expression が
 nunfirsku になっているが、これは firselsku のほうが良いのでは。cusku の
@@ -190,17 +194,20 @@ x2 は se du'u となっているが、これは du'u 以下の内容を表す�
 
 [重城]: *18: 「...  かのような素振りで」: tarti の cadzu への修飾関係をどう訳
 出するか
+
 どちらがいいかわかりませんが、gi'e でつなぐと「逆走」と「ふるまい」が並
 列な関係に見えてしまう。僕ならば、fau lo nu tarti または、fi'o se tarti lo
 nu ...  とする。
 
 [重城]: *19: 上記を考慮した試訳
+
 .i viska lo ralci filselsku je se cusku be loi se cuntu poi se cpasu
 ca lo nu le pa nanmu goi ko'a cu fatne cadzu seru'u lo prenu fi'o se
 tarti lo nu ko'a na ckini lo nunja'odzu selcku
 
 [重城]: *20: go'i だと直前の文を指すので「...を捉えていったことで」となってし
 まう
+
 この場合「表情やメッセージを捉えていったこと」というよりは、ここまで述べ
 てきたこと全体、あるいはここで述べていること全体によって、ということだと思
 うので go'i 類よりもより vague な la'e di'u や la'e dei を使ってもっと
@@ -214,25 +221,32 @@ porpi fa lo ...  のように fa が必要。また、ここはどっちがい�
 らを選択するかは訳者におまかせします。
 
 [重城]: *22: 上記を考慮した試訳
+
 .i ta'i la'e di'u troci lo nu gau porpi fa le nunja'odzu noi gunma
 fasnu lo se cuntu sevzi klani
 
 [重城]: *23: 「それすら」を訳出するのに、ここに po'o を入れるという案
+
 「逆走することだけで」といったニュアンスで
 
 [重城]: *24: 「なり得る」を訳出するなら、ここに ka'e を入れたらどうだろうか
+
 ただし、意図的に訳出していないのならばこのかぎりではない
 
 [重城]: *25: 上記を考慮した試訳
+
 .i se finti ji'u lo sidbo noi du'u lo nu cadzu po'o sefa'e lo
 nunja'odzu poi jarco lo pa jecta notci kei ji'a cu ka'e drata
 nunja'odzu
 (15のコメント終了)
 
-[guskant.2013-07-11: lo sidbo noi du'u > lo si'o (概念抽象) で良さそう
+[guskant.2013-07-11: > [重城]: lo sidbo noi du'u 
+
+-> lo si'o (概念抽象) で良さそう
 
 「それすら」をlo nu cadzu po'o にすると、歩く以外のことはもうひとつのデ
 モ行進になれないことを表す。これは原文の意味と異なる。
+
 元の訳文にあるji'a は、すでに追加のデモ行進「それも」を表している。これに
 saiまたはba'eを加え、ji'asaiまたはba'eji'aとすれば「すら」という強調を表
 せる。

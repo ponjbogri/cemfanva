@@ -2,7 +2,7 @@
 
 ---co'a pinka---
 
-[guskant.2013-07-14: {se pa'a lo nu na ka'e tavla gi'e se tavla vau lo jipci kei}
+[guskant.2013-07-14: > [重城]: {se pa'a lo nu na ka'e tavla gi'e se tavla vau lo jipci kei}
 
 	- {pa'a} と {sepa'a} は可換と思うが、どちらでも良い。
 
@@ -24,7 +24,7 @@
 	不正確だが時間の関係で、nu のままとする。
 	後々の保守で直す予定。
 
-[guskant.2013-07-14: {lo du'u .ei lo ma'a ka cusku simxu pe lo cecmu be lo
+[guskant.2013-07-14: > [重城]: {lo du'u .ei lo ma'a ka cusku simxu pe lo cecmu be lo
 	prenu cu mo kau cu rapli preti}
 
 	- 「ようである」は {za'a} か {pe'i} で表せそう。
@@ -49,13 +49,16 @@
 
 --- チェック済み ---
 
-[guskant.2013-07-14: {danfu lo vo'a preti}
+[guskant.2013-07-14: > [重城]: {danfu lo vo'a preti}
+
 	> 「vo'a に何らかの関係がある質問に答える」と言うより、
 		{danfu lo preti be fi vo'a} のほうが、「自問」の部分を精確に表す]
 
 [重城]: 	ie. xamgu
 
-[guskant.2013-07-14: {(lu'i ny.)} > 不要。「彼らに（読みきかせたり／説いたり）」と
+[guskant.2013-07-14: > [重城]: {(lu'i ny.)} 
+
+> 不要。「彼らに（読みきかせたり／説いたり）」と
 	言いたい場合は {cusku co tcidu lo djekarni gi'e ciksi lo nuzba...}
 	の文頭に {fi lu'o ny.} とする。集合ではなくて群れを対象としているから。]
 
@@ -63,14 +66,15 @@
 	mupli の x3 に lu'i ny を持ってきて、これらが lo nuzba の例であると明示した。
 	いずれにせよ消す。
 
-[guskant.2013-07-14: {lo fasnu be fi'o se preja lo munje}
+[guskant.2013-07-14: > [重城]: {lo fasnu be fi'o se preja lo munje}
+
 	> 個々の事件が世界に広がっているのではなく、局所的な個々の事件の領域が
 		世界であると言いたい。
 		{lo fasnu be tedi'o lo munje} 「世界を領域とした事件」]
 
 [重城]: 	.ie xamgu la'a
 
-[guskant.2013-07-14: {gau cipra lo du'u cusku ma jy.} 
+[guskant.2013-07-14: > [重城]: {gau cipra lo du'u cusku ma jy.} 
 
 	- 「何を話すことができるのか」の「何」は、話される表現自体を指すのでは
 		なく、話題を指していると考えるほうが自然。{cusku x2} とするよりも
@@ -83,7 +87,7 @@
 
 	lo ka にするかどうかは、また考えることにする。
 
-[guskant.2013-07-14: {.i ge ca lo nu la cipni .influenz. cu preja lo ponjo kei
+[guskant.2013-07-14: > [重城]: {.i ge ca lo nu la cipni .influenz. cu preja lo ponjo kei
 	temci}
 
 	- {ge} が余分にある
@@ -93,7 +97,7 @@
 
 [重城]: 	.ie sai
 
-[guskant.2013-07-14: {de'i renonomu se tai lo se zukte}
+[guskant.2013-07-14: > [重城]: {de'i renonomu se tai lo se zukte}
 
 	- {li} 抜け
 
@@ -101,7 +105,7 @@
 
 [重城]: 	.ie
 
-[guskant.2013-07-14: {flanaltinbe jipci molki}
+[guskant.2013-07-14: > [重城]: {flanaltinbe jipci molki}
 
 	- ヤンキーは鶏に係ってはいない。 {ke} を入れる。
 

@@ -52,6 +52,7 @@ merodava'e
 レベルには負は無いという暗黙の前提が必要になるが以下のようにすれば、一応表現できるか。
 
 lo cnijbi fadni ke no va'e bi'i ro va'e nu zerle'a
+
 11:08 AM Jul 8
 
 [重城]: 代案:
@@ -66,16 +67,19 @@ ro senta se ckaji となるか。
 全体を lujbo 化して、rolsetselkai とできるかな。
 
 lo cnijbi fadni ke rolsetselkai nu zerle'a
+
 11:18 AM Jul 8
 
 [guskant]: merozo'eva'eとは違う。daは束縛変項なので、rodaを使った命題は、議論領域内の可能な項を1つずつdaに代入して命題の真理値を検討していき、全ての項についてこの命題が当てはまるということを表す。
 したがって、merodava'e によって「あらゆるレベル」を表現できている。
+
 12:57 PM Jul 9
 
 [重城]: なるほど、
 ... me ro da va'e は、
 ro da zo'e ... me da va'e に展開できるということですね。
 納得です。
+
 9:15 AM Jul 10
 
 
@@ -83,6 +87,7 @@ ro da zo'e ... me da va'e に展開できるということですね。
 [guskant]:  10:30 AM Jun 3
 Selected text:
 cnijbi
+
 身近 cinmo jibni
 
 
@@ -122,9 +127,11 @@ zu'o to'e tugni 不賛成の行為
 
 むしろ pante を使って、
 lo zu'o pante lo nu banxa ... としたほうが良さそうだが。
+
 11:34 AM Jul 7
 
 [guskant]: ie
+
 9:05 PM Jul 7
 
 
@@ -179,8 +186,11 @@ lo nu ... cu tavla ... se smuni lo nu jikca lo fange ... とする、とか。
 11:07 AM Jul 7
 
 [guskant]: BPFK Sections:
+
 ju'a (UI2) 
+
 Evidential. Used to express a non-specific/elliptical source of information or idea. See also xusra, the preface.
+
 何らかの根拠はある
 9:00 PM Jul 7
 
@@ -205,7 +215,8 @@ lo'e to'e jikca
 11:05 AM Jun 18
 
 [重城:
-> lo'e to'e jikca no'u lo zerle'a
+> [guskant]: lo'e to'e jikca no'u lo zerle'a
+
 jikca は社会ではなく社交
 
 反社会的人物
@@ -217,6 +228,7 @@ lo cecmu to'e tinbe コミュニティに服従しないもの
 lo to'e tinbe be fi lo cecmu 
 
 tinbe [tib] gismu 
+
 x1 obeys/follows the command/rule x2 made by x3; 
 (adjective:) x1 is obedient.  See also minde, lacri, javni, flalu, zekri. 
 ]
@@ -326,11 +338,12 @@ residency が訳出されてない?
 また jikca が何を訳出したのかわからなかったので、下の試訳では省いた。
 
 .i finti sera'a lo nu tadni pe la .xelsinkis. gugykruca ke larcu tadni selpla pe lo gugdefu'i
-Reply
+
 
 [guskant]: " at Helsinki International Artist-in-residency Programme" の方で residency を jikca と訳したので、このjikca selpla との関係を sera'a で表し、 residency を2回使う冗長さを避けた。この冗長さは英語の表現力の無さから来るものだから、訳出する必要性を感じない。
 HIAPを運営しているcecmuはあるはずだが、この作品はProgrammeの一環としての制作だから、loで意味上の問題はない。
 一方、supported byの訳にはcecmuを追加する。
+
 12:55 PM Jul 9
 
 
@@ -349,7 +362,7 @@ Reply
 
 
 [重城]: 
-> jikca
+> [guskant]: jikca
 
 「コミュニケーション」に lo nu jikca はしっくり来ますね。
 僕のところもこっちで再検討してみます。
@@ -357,7 +370,7 @@ Reply
 もっと相互的な「コミュニケーション」だとすると lo ka jikca simxu といったところでしょうか。
 
 [重城]: 
-> fange
+> [guskant]: fange
 
 この場合の「他者」は lo fange でしっくりきますね。
 自分達とは異質なものといった意味で。
@@ -374,6 +387,7 @@ mipri jibni よりも mipri nenri のほうが良さそう。
 sumti が lo cecmu ではなく ma'a ならば mipri jibni だと思うのですが。
 
 lo zerle'a cu mipri jibni ma'a
+
 lo zerle'a cu mipri nenri lo cecmu
 
 [guskant]: ie 
@@ -382,10 +396,12 @@ nenriに変更
 9:01 PM Jul 7
 
 [重城]:
-> lo zu'o toltu'i fi lo du'u banxa pracmu gi'a sivypo'eci'e nunpo'e
+> [guskant]: lo zu'o toltu'i fi lo du'u banxa pracmu gi'a sivypo'eci'e nunpo'e
 
 tugniはx3が真であることへの同意
+
 むしろpanteを使う
+
 lo zu'o pante lo nu banxa pracmu...
 
 [guskant]: ie

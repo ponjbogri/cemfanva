@@ -101,6 +101,7 @@ Selected text:
 lo gugypausle
 
 lo jecta be lo gugde pagbu selci
+
 自治体の「政府 lo jecta」という意味を追加してある。
 gugypausle に jecta の意味が含まれるなら、jectaは不要
 
@@ -117,11 +118,18 @@ Selected text:
 .i の直後に ce'o gi ... gi があると、構文エラーになる
 
 
-[guskant]: .itu'e ce'o gi ... gi ... (tu'u)
+[guskant]: 
+
+.itu'e ce'o gi ... gi ... (tu'u)
+
 あるいは
+
 .ibo ce'o gi ... gi ...
+
 あるいは
+
 ni'o ce'o gi ... gi ...
+
 とするとエラー回避。
 6:41 AM Jun 3
 
@@ -189,9 +197,12 @@ nu
 9:12 PM Jul 7
 
 [guskant.2013-07-11: lo nei をlo no'a に変更。
+
 (
 tugni la tsani la'e di'e: "That being said, I say that {nei} used in a sei-clause refers to the bridi of the sei-clause. This is consistent with (almost) every other use of nei. To refer to the bridi outside the sei-clause {no'a} is required." 
+
 https://groups.google.com/d/msg/lojban/1jw3fYM6JNI/1jtUHcajzkYJ
+
 )]
 
 [重城]:  5:17 PM Jul 4
@@ -249,7 +260,9 @@ ma kau を含む文は本質的に命題になると思うのですが、いか�
 10:14 AM Jul 8
 
 [guskant]: kau を含むnuを質問の主題とすることは可能。makauは質問の答となるものを指す。
+
 preti lo nu lo danlu ku nitcu ko'a
+
 と同じで、「動物がそれを必要とする」という事象についての質問。
 そして、この文での質問の主題は「必要とする」という事象であると見なして問題はない。
 ただ、「件の訳文は
@@ -260,6 +273,7 @@ preti lo nu lo danlu ku nitcu ko'a
 そこで、これをsedu'uで受けてpretiのx1とする。
 
 lo go'i cu jai ta'i preti fai lo sedu'u lo danlu noi ke'a ma'a po'u loi remna na'e ka'e jikca ku'o nitcu makau pe ma'a
+
 と変更。
 1:03 PM Jul 9
 

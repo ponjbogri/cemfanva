@@ -10,7 +10,9 @@ cmene化する案
 第1文・第2文が正確かつ簡単になる（各文のコメント参照）
 
 訳注を入れるなら
+
 to'i sa'a zo demonen no'u lo banjupunu valsi cu se smuni la'e lu ku'i ju'a lu'u e la'e lu nu ja'odzu ju'a toi
+
 ただし本文にも意味が書かれているので不要か
 
 「でもね」 の 「ね」を ju'a としてみた

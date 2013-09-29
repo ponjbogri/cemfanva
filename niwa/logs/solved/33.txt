@@ -106,6 +106,7 @@ simsaでごまかしていますが、いい訳語があれば変更するのは
 姿勢は lo se tarti あるいは lo seltra と言えます。これには体が動く場合も
 含まれますが、静止している状態であることを明示したければ lo cando
 seltra などでも良いと思います。
+
 案:
 fi'o seltra lo za'i pe'a cadzu lo tumla lo betfu
 「地表を腹で歩くような状態を姿勢として」

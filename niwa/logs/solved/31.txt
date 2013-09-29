@@ -66,7 +66,7 @@ cnimlibi'o = cinmo milxe binxo
 [guskant.2013-07-12:
  > [重城]: lo zukte skina pe lo mentu be li bi pi'e cixa
 
- > lo tigni skina noi mentu li bi pi'e cixa に変更する方針?
+ -> lo tigni skina noi mentu li bi pi'e cixa に変更する方針?
 ]
 
 	[重城]:go'i .i ba'o galfi to .iocikun. toi
@@ -74,7 +74,7 @@ cnimlibi'o = cinmo milxe binxo
 [guskant.2013-07-12:
 > [重城]: ba lo donri
 
- > donriは昼間全体なので、正午過ぎの意味なら ba lo dormidju
+ -> donriは昼間全体なので、正午過ぎの意味なら ba lo dormidju
 ]
 
 	[重城]:ba'o galfi to .iocikun. toi
@@ -82,7 +82,7 @@ cnimlibi'o = cinmo milxe binxo
 [guskant.2013-07-12:
 > [重城]: kerfa
 
- > 髪?
+ -> 髪?
 ]
 
 	[重城]:kerfa pulce -> cilta pulce
@@ -94,7 +94,7 @@ cnimlibi'o = cinmo milxe binxo
 [guskant.2013-07-12:
 > [重城]: lo ka mutce lo nuncpe co cmibi'o lo'i pante be tu'a lo ratnenfanri
 
- > lo'i pante が mutce x3 になっている。 cmibi'o x2 なら be で繋ぐ。
+ -> lo'i pante が mutce x3 になっている。 cmibi'o x2 なら be で繋ぐ。
 ]
 
 	[重城]:.ie ba'o galfi (.iocikun.)
@@ -102,7 +102,7 @@ cnimlibi'o = cinmo milxe binxo
 [guskant.2013-07-12:
 > [重城]: ro lo ponse be lo mintu sidbo
 
- > ro lo te sidbo be fi lo mintu なら同じ文字数でより精確
+ -> ro lo te sidbo be fi lo mintu なら同じ文字数でより精確
 ]
 
 	[重城]:xamgu je melbi zmadu .i ba'o galfi (.iocikun.)
@@ -110,7 +110,7 @@ cnimlibi'o = cinmo milxe binxo
 [guskant.2013-07-12:
 > [重城]: cu ba'o se cliva
 
- > cu は無くても可
+ -> cu は無くても可
 ]
 	[重城]:.ie ba'o galfi (.iocikun.)
 

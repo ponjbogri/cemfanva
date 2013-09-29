@@ -70,9 +70,10 @@ kamni'o: ka cnino でも良さそう
 [cd][nalteo]:
 la .taman. ke larske bracu'e
 
-[ce][重城]:
-pe -> vu'o pe
+[ce][重城]: > [nalteo]: 
+pe 
 
+-> vu'o pe
 
 論理的または非論理的に接続された sumti 全体を関係節(句)で修飾するには
 vu'o が必要。
@@ -111,7 +112,9 @@ kaminogenをbroda に変えるとエラー回避
 新文法なら kaminogen でもエラーにならない?
 
 [ch][重城]:
-fi'o simxu selfri be so'i fityzu'e guncmi: これだと「たくさんのスタッ
+> [nalteo]: fi'o simxu selfri be so'i fityzu'e guncmi
+
+: これだと「たくさんのスタッ
 フの相互的体験として何かがあり、」といった感じ。
 一番の問題は selfri の x2 が so'i ... guncmi なので、原文にある「...との
 」に含まれる「たくさんのスタッフ」と私とが一緒に経験したという意味がな
@@ -143,10 +146,12 @@ fi'o simxu selfri be so'i fityzu'e guncmi: これだと「たくさんのスタ�
 
 [guskant]:
 ほぼ採用して変更済
+
 va'o lo se lifri be fi'o kansa so'i mukyzu'e guncmi
 
 [ci][重城]:
-lo basycau nunji'e pluka
+> [nalteo]: lo basycau nunji'e pluka
+
 ここらへんは日本語の解釈の問題なので、どちらでもいいと思いますが、「かけが
 えのない(生の悦び)」と僕は読みましたが、「(かけがえのない生)の悦び」の可
 能性もありますね。
@@ -202,7 +207,9 @@ drata を採用。kanpo'e と te kansi'o の x1 を lo drata とすれば、意�
 [重城]:
 .ie
 
-[guskant.2013-07-10: bracu'e 2箇所を balcu'e に変更
+[guskant.2013-07-10: 
+
+bracu'e 2箇所を balcu'e に変更
 
 fityzu'e を mukyzu'e に変更
 
