@@ -99,5 +99,5 @@ div.notci3 {
   margin-left: 30px;
 }
 
-
+select { visibility: visible; -webkit-appearance: menulist-text; }
 
