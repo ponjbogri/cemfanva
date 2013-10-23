@@ -21,22 +21,22 @@ function jarco() {
     };
 };
 function minjarco1() {
+    var n = document.getElementById("cuxna").selectedIndex;
+    var m1 = document.getElementById("jmina1").selectedIndex;
+    var jmn1 = "./" + document.getElementById("jmina1").options[m1].value + "/" + document.getElementById("cuxna").options[n].value + ".html";
     var m = document.getElementById("jmina1");
     m.addEventListener("webkitTransitionEnd",function(e){
      this.innerHTML = this.innerHTML;
     },false);
-    var n = document.getElementById("cuxna").selectedIndex;
-    var m1 = document.getElementById("jmina1").selectedIndex;
-    var jmn1 = "./" + document.getElementById("jmina1").options[m1].value + "/" + document.getElementById("cuxna").options[n].value + ".html";
     document.getElementById("jufra_jmn1").src = jmn1;
 };
 function minjarco2() {
+    var n = document.getElementById("cuxna").selectedIndex;
+    var m2 = document.getElementById("jmina2").selectedIndex;
     var m = document.getElementById("jmina2");
     m.addEventListener("webkitTransitionEnd",function(e){
      this.innerHTML = this.innerHTML;
     },false);
-    var n = document.getElementById("cuxna").selectedIndex;
-    var m2 = document.getElementById("jmina2").selectedIndex;
     if (m2 > 0) {
     var jmn2 = "./" + document.getElementById("jmina2").options[m2].value + "/" + document.getElementById("cuxna").options[n].value + ".html";
     document.getElementById("jufra_jmn2").src = jmn2;
