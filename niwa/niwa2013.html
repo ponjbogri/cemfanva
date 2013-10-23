@@ -21,6 +21,10 @@ function jarco() {
     };
 };
 function minjarco1() {
+    var m = document.getElementById("jmina1");
+    m.addEventListener("webkitTransitionEnd",function(e){
+     this.innerHTML = this.innerHTML;
+    },false);
     var n = document.getElementById("cuxna").selectedIndex;
     var m1 = document.getElementById("jmina1").selectedIndex;
     var jmn1 = "./" + document.getElementById("jmina1").options[m1].value + "/" + document.getElementById("cuxna").options[n].value + ".html";
