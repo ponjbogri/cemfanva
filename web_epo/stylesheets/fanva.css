@@ -87,17 +87,17 @@ div.sruri {
   width: 700;
 }
 
-div.tercuha {
+span.tercuha {
   float: left; width: 57%;
 }
 
-div.notci2 {
-  float: left; width: 40%; font-size: 90%; line-height: 140%;
+span.notci2 {
+  width: 40%; font-size: 90%; line-height: 140%;
 }
 
 div.notci3 {
   margin-left: 30px;
 }
 
-
+select { visibility: visible; -webkit-appearance: none; }
 
