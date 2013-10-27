@@ -26,6 +26,8 @@ lo cecmu no'u xygylysy
 に変更
 4:52 PM Jul 10
 
+[guskant.2013-10-27: camxes で確認したところ、 lo xygylysy cecmu の xygylysy は数ではなく項となるので、心配なかった。逆に、これを数として扱うには vei BY (ve'o) という形にする必要がある。 lo vei xy broda で x個のbroda と言える。 mo'e の可能性も検討したが、 li mo'e BY (lo'o) は可能だが、 mo'e 構文は mo'e by や mo'e ko'a といったむき出しの operand のままだとエラーになることも確認した。 vei mo'e by (ve'o) や vei mo'e ko'a (ve'o) とすれば quantifier となり、数量として扱われる。] 
+
 [重城]: 「計画」と「共同体」は同一のものではないので、no'u ではなく ne のほうが良いのでは?
 5:06 PM Jul 10
 
