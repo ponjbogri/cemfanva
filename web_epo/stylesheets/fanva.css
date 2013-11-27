@@ -84,15 +84,19 @@ div.notci {
 }
 
 div.sruri {
-  width: 700;
+  width: 900;
 }
 
 span.tercuha {
-  float: left; width: 57%;
+  float: left; z-index: 3;
+}
+
+img.cukta {
+  position: relative; z-index: 1; float: right; margin-right: 40;
 }
 
 span.notci2 {
-  width: 40%; font-size: 90%; line-height: 140%;
+  position: absolute; z-index: 2; font-size: 90%; line-height: 140%;
 }
 
 div.notci3 {
