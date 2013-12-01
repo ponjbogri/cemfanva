@@ -1,1 +1,7 @@
-24. Neona reklamilo "de-mo-ne" 
+24
+
+Neona reklamilo \textit{"de-mo-ne"}
+
+2012, Neontuboj (400mm x 500mm)
+
+Mi mendis neonan reklamilon, kiu legiĝas kiel japanaj literoj \textit{"de-mo-ne"} skribitaj permane. Ne estas klare, ĉu ili signifas "Manifestacio, ĉu ne?" aŭ "Sed tamen (ne estas tiel)". Mi kreis ambiguan reklamon por sugesti, ke ni decidas la signifon de literoj depende de nia mensa stato.
